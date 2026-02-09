@@ -22,4 +22,4 @@ Python | Pandas | Scikit-learn | Power BI | SQL
 ## 6. How to Run
 * Open notebook
 * Open PBIX locally
-## 7. Notebook
+
